@@ -1,0 +1,47 @@
+#header {
+  background-color: #131516;
+  color: white;
+  padding: 20px;
+}
+
+#song-details-container {
+  display: flex;
+  background-color: #333436;
+  color: white;
+  padding: 10px;
+}
+
+#song-details-container:hover{
+  background-color: #414447;
+}
+
+h1, h2{
+  margin: 0;
+}
+
+h3 {
+  color: #56AAC1
+}
+
+img {
+  margin-right: 10px;
+  border: 1px solid black;
+}
+
+audio {
+  margin-top: 20px;
+}
+
+
+.container {
+  border: 1px solid black;
+}
+
+.position {
+  width: 100px;
+  height: 100px;
+}
+
+.song-details {
+  width: 85%;
+}
