@@ -45,3 +45,7 @@ audio {
 .song-details {
   width: 85%;
 }
+
+.label {
+  position: absolute;
+}
